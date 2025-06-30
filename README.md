@@ -2,10 +2,10 @@
 
 Bienvenue sur mon profil GitHub !
 
-🎮 Développeur de mods sur le simulateur militaire ARMA Reforger 
-🚀 En train de recréer l'armée française avec ARMA MOD FRANCE (je gère l'intégration des modèles 3D, crée par d'autres gens talentueux)
-🧠 Curieux de tout ce qui touche au scripting, modding et création 3D dans l'univers du jeu vidéo
-⌨️ En train d'apprendre les bases C et C++ et des bases algorithmiques 
+- 🎮 Développeur de mods sur le simulateur militaire ARMA Reforger 
+- 🚀 En train de recréer l'armée française avec ARMA MOD FRANCE (je gère l'intégration des modèles 3D, crée par d'autres gens talentueux)
+- 🧠 Curieux de tout ce qui touche au scripting, modding et création 3D dans l'univers du jeu vidéo
+- ⌨️ En train d'apprendre les bases C et C++ et des bases algorithmiques 
 
 ---
 
